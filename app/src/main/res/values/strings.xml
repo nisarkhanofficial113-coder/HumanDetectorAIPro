@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Human Detector AI Pro</string>
+    <string name="notif_channel_id">hd_scan_channel</string>
+    <string name="notif_channel_name">Human Detector Scanning</string>
+    <string name="notif_scanning">Scanning nearby signals for human presence…</string>
+    <string name="voice_one_person">One person detected.</string>
+    <string name="voice_left">One person left.</string>
+</resources>
