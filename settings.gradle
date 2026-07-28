@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HumanDetectorAIPro"
-include(":app")
+rootProject.name = "HumanDetectionApp"
+include ':app'
